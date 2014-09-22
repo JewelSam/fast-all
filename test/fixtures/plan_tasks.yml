@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  runtime_main: MyString
+  runtime: 2014-09-22 23:06:48
+  category_id: 1
+  checked: false
+
+two:
+  title: MyString
+  runtime_main: MyString
+  runtime: 2014-09-22 23:06:48
+  category_id: 1
+  checked: false

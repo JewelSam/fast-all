@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyText
+  category_id: 1
+  note: MyText
+  runtime: 2014-09-22 23:01:11
+  checked: false
+  ancestry: MyString
+  sort: 1
+
+two:
+  title: MyText
+  category_id: 1
+  note: MyText
+  runtime: 2014-09-22 23:01:11
+  checked: false
+  ancestry: MyString
+  sort: 1
