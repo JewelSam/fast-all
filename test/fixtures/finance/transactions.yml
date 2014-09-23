@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type_of_transaction: MyString
+  date: 2014-09-23
+  sum: 1.5
+  category_id: 1
+  account_id: 1
+
+two:
+  type_of_transaction: MyString
+  date: 2014-09-23
+  sum: 1.5
+  category_id: 1
+  account_id: 1

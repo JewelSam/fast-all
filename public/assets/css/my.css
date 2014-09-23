@@ -1,0 +1,66 @@
+.form-horizontal .control-label {
+    float: left;
+    padding-top: 5px;
+    text-align: right;
+    width: 100px;
+}
+
+.form-horizontal .datarange-label {
+    float: left;
+    padding-top: 5px;
+    text-align: right;
+    width: 200px;
+}
+
+
+.form-horizontal .controls-filters {
+    margin-left: 110px;
+}
+.form-horizontal .filters-datarange{
+    margin-left: 215px;
+}
+
+.form-filters{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: right;
+
+}
+
+.form-main-filters .control-group{
+    margin-bottom: 7px;
+
+}
+
+.form-horizontal .controls-filters .btn-group {
+    vertical-align: top;
+}
+
+.btn-filters {
+    width: 80px;
+    text-align: left;
+}
+
+.table-header-small{
+
+
+}
+
+.table-header-small tr th{
+   font-size: 12px;
+
+}
+.statistic-first-td-primary{
+    margin-left: 10px;
+
+}
+.statistic-first-td{
+
+    padding-left: 30px !important;
+    width: 30%;
+
+}
+
+
