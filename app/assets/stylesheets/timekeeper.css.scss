@@ -1,0 +1,28 @@
+.timekeeper_block {
+
+  select,
+  input[type="text"],
+  input[type="datetime"],
+  input[type="date"],
+  input[type="time"] {
+    margin-bottom: 0;
+  }
+
+  .btn-small {
+    width: 11%;
+    line-height: 22px;
+  }
+
+  input.span6 {
+    width: 50%;
+  }
+
+  select.span2 {
+    width: 15%;
+  }
+
+  input.span1 {
+    width: 8%;
+  }
+
+}
